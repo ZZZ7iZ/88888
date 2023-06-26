@@ -11,20 +11,20 @@ def setting_markup(_):
                 text="[𖢿جودة الصوت𖢿]", callback_data="AQ"
             ),
             InlineKeyboardButton(
-                text="[𖢿جودة الفيديو𖢿]", callback_data="VQ"
+                text="【 جودة الفيديو ﻿ 】", callback_data="VQ"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="[𖢿مستخدمون المصادقه𖢿]", callback_data="AU"
+                text="【﻿ مستخدمون المصادقه 】", callback_data="AU"
             ),
             InlineKeyboardButton(
-                text="[𖢿وضع النظيف𖢿]", callback_data="CM"
+                text="【﻿ وضع النظيف 】", callback_data="CM"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="• الدعم •", url=f"https://t.me/HL_BG",
+                text="• الدعم •", url=f"https://t.me/IIIlIIv",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close"
